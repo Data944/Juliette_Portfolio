@@ -1,4 +1,4 @@
-# Juliette_ Portfolio
+
 # [Basic and Intermediate SQL Functions](https://github.com/Data944/SQL)
 *	I downloaded Microsoft SQL and ran basic and intermediate queries in the application
 *	Basic query functions include creating table, insert into, select from and where statement
