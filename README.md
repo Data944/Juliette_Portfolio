@@ -20,3 +20,13 @@
 * Delete statement deleted data in rows or whole table
 
 
+# [MySQL: Retrieving Data from Single Tables](https://github.com/Data944/Retrieving-Data-from-Single-Tables-MySQL/blob/main/README.md)
+* The And, OR, Operator
+* Between Operator
+* Like Operator
+* Limit Clause
+* Order By Operator
+* REGEXP Operator
+* Select Clause
+* The IN Operator
+* Where Clause
