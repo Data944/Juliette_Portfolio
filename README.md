@@ -13,3 +13,10 @@
 * Learned and practiced advanced concepts for SQL such as CTEs, views, strings and stored procedures.
 * Found company database online and practice queries from it.
 * Created tables with primary key and foreign key, on delete set null and on delete cascade
+
+# [MySQL: Insert, Update, and Delete Data](https://github.com/Data944/MySQL)
+* Insert statement included 2 methods: run with default primary key and columns or select columns,  and inserting multiple values
+* Update statement included set and where keywords in a single and multiple rows. The difference was using in keyword with muiltiple rows
+* Delete statement deleted data in rows or whole table
+
+
