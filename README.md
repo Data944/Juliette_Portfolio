@@ -20,7 +20,7 @@
 * Delete statement deleted data in rows or whole table
 
 
-# [MySQL: Retrieving Data from Single Tables](https://github.com/Data944/Retrieving-Data-from-Single-Tables-MySQL/blob/main/README.md)
+# [MySQL: Retrieving Data from Single Tables](https://github.com/Data944/Retrieving-Data-from-Single-Tables-MySQL)
 * The And, OR, Operator
 * Between Operator
 * Like Operator
