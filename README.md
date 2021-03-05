@@ -30,3 +30,7 @@
 * Select Clause
 * The IN Operator
 * Where Clause
+
+# [Retrieving data from multiple tables](https://github.com/Data944/Retrieving-data-from-multiple-tables)
+*  worked with joins both in and outer joins, self joins, cross joins, natural joins to work with multiple tables
+
