@@ -1,5 +1,5 @@
 
-# [Cyclistic Bike Share Program Case Study using R](https://github.com/Data944/R)
+# [Cyclistic Bike Share Case Study using R](https://github.com/Data944/R)
 * Scenerio:Cyclistic bike-share program in Chicago features more than 5,800 bicycles and 600 docking stations. The director
 of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore,
 your team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insights,
