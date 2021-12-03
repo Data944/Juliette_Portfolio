@@ -3,7 +3,7 @@
 * Scenerio: Cyclistic bike-share program in Chicago features more than 5,800 bicycles and 600 docking stations. The director
 of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore,
 your team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insights,
-your team will design a new marketing strategy to convert casual riders into annual members.(This is part of the google data analyst certificate)
+your team will design a new marketing strategy to convert casual riders into annual members.
 
 # [Basic and Intermediate SQL Functions](https://github.com/Data944/SQL)
 *	I downloaded Microsoft SQL and ran basic and intermediate queries in the application
