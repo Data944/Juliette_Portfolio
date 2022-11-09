@@ -1,5 +1,5 @@
 # [Excel portfolio](https://github.com/Data944/EXCEL)
-Prepared data in excel  and visualized data
+* Prepared data in excel  and visualized data
 
 # [Cyclistic Bike Share Case Study using R](https://github.com/Data944/R)
 * Scenerio: Cyclistic bike-share program in Chicago features more than 5,800 bicycles and 600 docking stations. The director
