@@ -1,4 +1,4 @@
-# [excel portfolio](https://github.com/Data944/EXCEL)
+# [Excel portfolio](https://github.com/Data944/EXCEL)
 Prepared data in excel  and visualized data
 
 # [Cyclistic Bike Share Case Study using R](https://github.com/Data944/R)
